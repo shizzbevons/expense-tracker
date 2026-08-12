@@ -18,7 +18,7 @@ The main objective of this project is to understand how Python can process numer
 ## Technologies Used
 
 - Python
-- VS Code
+- python idle
 
 ## Key Concepts
 
